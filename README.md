@@ -77,4 +77,4 @@ await scraper.Start();
 ```
 
 ### Credits
-- pig#8932 from discord - Replit Scraper Python Script
+- [discordtehe](https://github.com/discordtehe) - Replit Scraper Python Script
