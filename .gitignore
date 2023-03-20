@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+.vscode/
+.idea/
+.DS_Store
+npm-debug.log
+yarn.lock
+node_modules/
+dist/
+.parcel-cache
+db.json
+.env
