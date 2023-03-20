@@ -75,3 +75,6 @@ const scraper = new ReplitScraper({
 
 await scraper.Start();
 ```
+
+### Credits
+- pig#8932 from discord - Replit Scraper Python Script
